@@ -75,6 +75,7 @@ pip install matplotlib xlsxwriter
 
 3.Τρέξε την εφαρμογή:
 
+python main.py
 
 ---
 
