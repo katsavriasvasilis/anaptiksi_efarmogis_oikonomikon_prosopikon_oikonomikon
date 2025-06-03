@@ -1,4 +1,4 @@
-# anaptiksi_efarmogis_oikonomikon_prosopikon_oikonomikon
+# anaptiksi_efarmogis_prosopikon_oikonomikon
 ![Repository_Wallpaper](https://github.com/user-attachments/assets/985693f8-b4f3-4818-a815-06fc3561e30c)
 
 "Διαχείριση Προσωπικών Οικονομικών: Εφαρμογή Python/Tkinter για την καταγραφή και ανάλυση του οικογενειακού προϋπολογισμού."
